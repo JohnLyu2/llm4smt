@@ -7,11 +7,11 @@ from pathlib import Path
 import csv
 
 SOLVER_NAME = "Z3"
-SOLVER_CMD = "z3"
-INSTANCE_DIR = "/home/z52lu/fastsmtData/smt_data/sage2/all"
-TIMEOUT = 3
-BATCH_SIZE = 15
-RES_DIR = "/home/z52lu/llm4smt/data/sage2"
+SOLVER_CMD = "z3 -- "
+INSTANCE_DIR = "/Users/zhengyanglumacmini/Desktop/Projects/MachSMT/benchmarks/smt-lib/non-incremental/BV/2017-Preiner-tptp"
+TIMEOUT = 1
+BATCH_SIZE = 5
+RES_DIR = "data/play"
 
 class SolverRunner(threading.Thread):
     def __init__(self, solver_name, solver_cmd, instance):
@@ -42,21 +42,21 @@ class SolverRunner(threading.Thread):
 def solver_run(solver_name, solver_cmd, benchmark_dir, timeout, batch_size, result_dir):
     sorted_instances = sorted(str(instance) for instance in Path(benchmark_dir).rglob("*.smt2"))
     instance_size = len(sorted_instances)
-    for i in range(0, instance_size, batch_size):
-        batch_instances = sorted_instances[i : min(i+batch_size, instance_size)]
-        runners = []
-        for instance in batch_instances:
-            runners.append(SolverRunner(solver_name, solver_cmd, instance))
-        for runner in runners:
-            runner.start()
-        time_start = time.time()
-        for runner in runners:
-            time_left = max(0, timeout - (time.time() - time_start))
-            runner.join(time_left)
-        res_path = os.path.join(result_dir, f"{solver_name}_{timeout}.csv")
-        with open(res_path, "w") as f:
-            writer = csv.writer(f)
-            writer.writerow(["instance", "solver", "result", "time"])
+    res_path = os.path.join(result_dir, f"{solver_name}_{timeout}.csv")
+    with open(res_path, "w") as f:
+        writer = csv.writer(f)
+        writer.writerow(["instance", "solver", "result", "time"])
+        for i in range(0, instance_size, batch_size):
+            batch_instances = sorted_instances[i : min(i+batch_size, instance_size)]
+            runners = []
+            for instance in batch_instances:
+                runners.append(SolverRunner(solver_name, solver_cmd, instance))
+            for runner in runners:
+                runner.start()
+            time_start = time.time()
+            for runner in runners:
+                time_left = max(0, timeout - (time.time() - time_start))
+                runner.join(time_left)
             for runner in runners:
                 writer.writerow(runner.collect())
 

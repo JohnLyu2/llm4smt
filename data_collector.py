@@ -6,6 +6,12 @@ import time
 from pathlib import Path
 import csv
 
+SOLVER_NAME = "Z3"
+SOLVER_CMD = "z3"
+INSTANCE_DIR = "/home/z52lu/fastsmtData/smt_data/sage2/all"
+TIMEOUT = 3
+BATCH_SIZE = 15
+RES_DIR = "/home/z52lu/llm4smt/data/sage2"
 
 class SolverRunner(threading.Thread):
     def __init__(self, solver_name, solver_cmd, instance):
@@ -54,5 +60,8 @@ def solver_run(solver_name, solver_cmd, benchmark_dir, timeout, batch_size, resu
             for runner in runners:
                 writer.writerow(runner.collect())
 
-solver_run("Z3", "z3", "smt_files", 3, 2, "play_res")
+def main():
+    solver_run(SOLVER_NAME, SOLVER_CMD, INSTANCE_DIR, TIMEOUT, BATCH_SIZE, RES_DIR)
 
+if __name__ == "__main__":
+    main()

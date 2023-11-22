@@ -8,10 +8,10 @@ import csv
 
 SOLVER_NAME = "Z3"
 SOLVER_CMD = "z3 -- "
-INSTANCE_DIR = "/Users/zhengyanglumacmini/Desktop/Projects/MachSMT/benchmarks/smt-lib/non-incremental/BV/2017-Preiner-tptp"
-TIMEOUT = 1
-BATCH_SIZE = 5
-RES_DIR = "data/play"
+INSTANCE_DIR = "/home/z52lu/fastsmtData/smt_data/sage2/all"
+TIMEOUT = 3
+BATCH_SIZE = 15
+RES_DIR = "/home/z52lu/llm4smt/data"
 
 class SolverRunner(threading.Thread):
     def __init__(self, solver_name, solver_cmd, instance):

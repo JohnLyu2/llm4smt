@@ -1,7 +1,7 @@
 *.pyc
 .DS_Store
 .vscode
-.sh
-.out
+*.sh
+*.out
 
 # Project specific

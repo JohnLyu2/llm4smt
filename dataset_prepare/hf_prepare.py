@@ -3,8 +3,8 @@ import os
 
 from smt_preprocess import *
 
-CSV_RAW = "/Users/zhengyanglumacmini/Desktop/Projects/lm_smt/bin_sage2/raw/merged_3_mini_test.csv"
-FILE2WRITE = "/Users/zhengyanglumacmini/Desktop/Projects/lm_smt/bin_sage2/merge_hf_test.csv"
+CSV_RAW = "/Users/zhengyanglumacmini/Desktop/Projects/lm_smt/bin_sage2/raw/merged_3_mini_train.csv"
+FILE2WRITE = "/Users/zhengyanglumacmini/Desktop/Projects/lm_smt/bin_sage2/merge_hf_train.csv"
 # here token only mean delimited by space
 # MAX_TOKENS = 1e18
 

@@ -33,6 +33,12 @@ def get_assertions(path):
         assertions += assertion.replace("\n", " ")
     return assertions
     
+def is_empty_file(path):
+    text = _get_text(path)
+    # check whether the text starts with "version"
+    if text.startswith("version"):
+        return True
+    return False
 
 # assertions = get_assertions("/Users/zhengyanglumacmini/Desktop/Projects/MachSMT/benchmarks/smt-lib/non-incremental/BV/2017-Preiner-keymaera/accelerating-node2100.smt2")
 # print(f"assertions: {assertions}")

@@ -166,7 +166,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10277.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10279.smt2,True,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1028.smt2,True,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_10281.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10282.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10285.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10287.smt2,False,True
@@ -201,7 +200,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10324.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10326.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10327.smt2,True,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_10328.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1033.smt2,True,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10331.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10333.smt2,True,True
@@ -402,7 +400,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10722.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10724.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10726.smt2,True,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_10727.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1073.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10732.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_10734.smt2,True,True
@@ -661,7 +658,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_11268.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1127.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_11270.smt2,False,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_11272.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_11275.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_11278.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_11284.smt2,False,False
@@ -1292,7 +1288,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_12602.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_12604.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_12606.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_12608.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_12610.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_12612.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_12614.smt2,True,True
@@ -1582,7 +1577,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13196.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13197.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13198.smt2,True,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_13199.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1320.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13200.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13201.smt2,True,True
@@ -1621,7 +1615,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13270.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13275.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13279.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_13280.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13282.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_13284.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1329.smt2,False,True
@@ -2027,7 +2020,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14100.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14102.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14104.smt2,True,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_14106.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14112.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14114.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14115.smt2,False,True
@@ -2440,7 +2432,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14914.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14915.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14916.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_14918.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14919.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1492.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_14920.smt2,False,False
@@ -2581,7 +2572,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15237.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15239.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15241.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_15246.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15247.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15248.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15250.smt2,True,False
@@ -2620,7 +2610,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15310.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15312.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15313.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_15315.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15317.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15318.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_15319.smt2,False,False
@@ -3379,7 +3368,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16880.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16885.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16891.smt2,True,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_16895.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16897.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16899.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1690.smt2,False,False
@@ -3419,7 +3407,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16959.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1696.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16960.smt2,False,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_16962.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16966.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_16967.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1697.smt2,False,False
@@ -3721,7 +3708,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17563.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17565.smt2,True,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17567.smt2,True,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_17570.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17572.smt2,True,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17573.smt2,True,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17576.smt2,False,False
@@ -3803,7 +3789,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17764.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17765.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17767.smt2,True,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_17768.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_1777.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17776.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_17779.smt2,False,False
@@ -4971,7 +4956,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4050.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4052.smt2,True,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4053.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_4054.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4056.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4059.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4060.smt2,False,False
@@ -5001,7 +4985,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4116.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4119.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4125.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_4127.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4133.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4135.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4136.smt2,False,False
@@ -5119,7 +5102,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4394.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4398.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_44.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_4400.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4402.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4404.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4405.smt2,True,False
@@ -5367,7 +5349,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4991.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4992.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_4997.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_5001.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_5003.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_5007.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_5009.smt2,True,True
@@ -5540,7 +5521,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_5373.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_5375.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_5377.smt2,False,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_5378.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_538.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_5381.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_5383.smt2,False,False
@@ -5906,7 +5886,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_62.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6201.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6203.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_6209.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6212.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6213.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6215.smt2,True,True
@@ -6000,7 +5979,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6406.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6408.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6410.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_6414.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6417.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6419.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6421.smt2,False,False
@@ -6013,7 +5991,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6443.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6444.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6451.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_6453.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6456.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6458.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_6461.smt2,False,False
@@ -6756,7 +6733,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8070.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8072.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8074.smt2,True,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_8075.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8076.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8079.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8081.smt2,False,False
@@ -6811,7 +6787,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8179.smt2,True,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8180.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8181.smt2,True,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_8182.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8183.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8185.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8187.smt2,True,True
@@ -6937,7 +6912,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8455.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8456.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8457.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_8458.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8461.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8463.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8464.smt2,True,False
@@ -7173,7 +7147,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8984.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8986.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8987.smt2,True,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_899.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8990.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8994.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_8995.smt2,False,False
@@ -7258,12 +7231,10 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9135.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9136.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9138.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_9140.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9142.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9143.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9149.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_915.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_9150.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9152.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9153.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9154.smt2,False,False
@@ -7417,7 +7388,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9498.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_950.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9500.smt2,True,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_9501.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9502.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9505.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9508.smt2,True,False
@@ -7525,7 +7495,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9728.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9729.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9731.smt2,False,False
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_9732.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9733.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9735.smt2,False,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9750.smt2,False,False
@@ -7568,7 +7537,6 @@ instance,z3,cvc5
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9827.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9829.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9830.smt2,False,True
-/home/z52lu/fastsmtData/smt_data/sage2/all/bench_9831.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9833.smt2,False,False
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9835.smt2,True,True
 /home/z52lu/fastsmtData/smt_data/sage2/all/bench_9836.smt2,True,True

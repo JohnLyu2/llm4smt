@@ -3,8 +3,8 @@ import os
 
 from smt_preprocess import *
 
-CSV_RAW = "/Users/zhengyanglumacmini/Desktop/Projects/lm_smt/bin_sage2/raw/Z3_3_test.csv"
-FILE2WRITE = "/Users/zhengyanglumacmini/Desktop/Projects/lm_smt/bin_sage2/z3_hf_test.csv"
+CSV_RAW = "/Users/zhengyanglumacmini/Desktop/Projects/lm_smt/bin_sage2/raw/merged_3_mini_test.csv"
+FILE2WRITE = "/Users/zhengyanglumacmini/Desktop/Projects/lm_smt/bin_sage2/merge_hf_test.csv"
 # here token only mean delimited by space
 # MAX_TOKENS = 1e18
 
@@ -24,7 +24,7 @@ with open(FILE2WRITE, 'w') as f:
     # write a csv
     writer = csv.writer(f)
     # header: instance, solver, result, time
-    writer.writerow(["assertions", "label"])
+    writer.writerow(["assertions", "z3", "cvc5"])
     for record in rawdata:
         path = record[0]
         # print(mini_path)
@@ -33,9 +33,8 @@ with open(FILE2WRITE, 'w') as f:
             print("File does not exist: ", path)
             continue
         assertions = get_assertions(path)
-        label = "no"
-        if record[2] == 'sat' or record[2] == 'unsat':
-            label = "yes"
-        writer.writerow([assertions, label])
+        # write ["assertions", "z3", "cvc5"] to csv
+        if assertions:
+            writer.writerow([assertions, record[1], record[2]])
         print(f"Processed {path}")
 
